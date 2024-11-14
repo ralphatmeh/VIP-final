@@ -30,7 +30,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <h1 className="text-3xl font-bold underline">
-      Hello world!
+      Hello, World!
     </h1>
     <Button>Click me</Button>
     </>
