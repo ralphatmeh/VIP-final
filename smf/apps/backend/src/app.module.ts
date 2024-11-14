@@ -8,7 +8,7 @@ import { PostgreSqlDriver } from '@mikro-orm/postgresql';
 @Module({
   imports: [
     MikroOrmModule.forRoot({
-      dbName: 'Vip_Test',   
+      dbName: 'vip_test',   
       driver: PostgreSqlDriver,      
       user: 'admin',          
       password: 'admin',  
